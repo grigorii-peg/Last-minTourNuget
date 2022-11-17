@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\bin\Debug\net6.0\Last-min TourNu.deps.json
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\bin\Debug\net6.0\Last-min TourNu.dll
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\bin\Debug\net6.0\ref\Last-min TourNu.dll
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\bin\Debug\net6.0\Last-min TourNu.pdb
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.AssemblyInfo.cs
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.dll
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\ref\Last-min TourNu.dll
+C:\Users\Admin\Desktop\С++\C#\Last-min TourNu\obj\Debug\net6.0\Last-min TourNu.pdb

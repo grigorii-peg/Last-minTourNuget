@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	<PackageLicenseFile>license.txt</PackageLicenseFile>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>  
+    <Version>1.0.1</Version>
+    <Authors>Pegushin</Authors>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <None Include="License\license.txt" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+</Project>
